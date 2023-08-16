@@ -5,6 +5,7 @@
          "phone":"123-456-7890",
          "email":"john@example.com",
          "numOfAdults":2,
+         "purchasedDate": "23-09-2022",
          "ticketType":"Regular"
       },
       {
@@ -12,6 +13,7 @@
          "phone":"987-654-3210",
          "email":"jane@example.com",
          "numOfAdults":1,
+          "purchasedDate": "23-09-2022",
          "ticketType":"VIP"
       },
       {
@@ -19,6 +21,7 @@
          "phone":"555-555-5555",
          "email":"michael@example.com",
          "numOfAdults":2,
+          "purchasedDate": "23-09-2022",
          "ticketType":"Regular"
       },
       {
@@ -26,6 +29,7 @@
          "phone":"111-222-3333",
          "email":"emily@example.com",
          "numOfAdults":1,
+          "purchasedDate": "23-09-2022",
          "ticketType":"Student"
       },
       {
@@ -33,6 +37,7 @@
          "phone":"444-444-4444",
          "email":"david@example.com",
          "numOfAdults":2,
+          "purchasedDate": "23-09-2022",
          "ticketType":"Regular"
       }
    ]
